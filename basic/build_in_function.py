@@ -1,0 +1,7 @@
+#highest=max(1,2,3,4,5,6,7)
+highest=max([1,2,3,4,5,6,7])
+smallest=min([1,2,3,4,5,6,7])
+print(highest,smallest)
+length=len([1,2,3,4,5,6,7])
+total=sum([1,2,3,4,5,6,7])
+print(highest,smallest,length,total)
